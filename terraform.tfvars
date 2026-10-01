@@ -1,0 +1,5 @@
+azcname        = "testterraform1"
+azclocation    = "westus2"
+saccname       = "matestorage3637"
+container_name = "test-1"
+blob_name      = "test-terraform"
