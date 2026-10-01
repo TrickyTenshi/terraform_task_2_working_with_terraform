@@ -1,12 +1,12 @@
-variable "azcname" {
+variable "resource_group_name" {
   type = string
 }
 
-variable "azclocation" {
+variable "location" {
   type = string
 }
 
-variable "saccname" {
+variable "storage_account_name" {
   type = string
 }
 
